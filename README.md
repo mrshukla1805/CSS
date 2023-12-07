@@ -23,3 +23,7 @@ align-items
 ## Position
 
 https://ishadeed.com/article/learn-css-positioning/
+
+## Display
+
+https://www.youtube.com/watch?v=9T8uxp5hQ60
